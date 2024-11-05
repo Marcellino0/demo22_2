@@ -1,1 +1,2 @@
 baris 1 di lokal abcd
+baris baru di remote
