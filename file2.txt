@@ -1,2 +1,3 @@
 baris di lokal
-baris baru diremote
+baris baru diremote diedit di local
+baris 3 di local

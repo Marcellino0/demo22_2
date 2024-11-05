@@ -1,2 +1,3 @@
 baris 1 di lokal abcd
-baris baru di remote
+baris baru di remote diedit di local
+baris 3 di local
